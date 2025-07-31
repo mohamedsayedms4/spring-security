@@ -23,7 +23,7 @@ public class ProjectSecurityConfig {
                     .requestMatchers("/notices", "/contact", "/error").permitAll();
         });
         http.formLogin(form -> form.disable());
-        http.httpBasic(httpBasic -> httpBasic.disable());
+        http.httpBasic(Customizer.withDefaults());
 
 
 
