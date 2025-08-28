@@ -1,0 +1,3 @@
+The quick brown fox jumps
+Spring Boot framework for Java
+Git version control

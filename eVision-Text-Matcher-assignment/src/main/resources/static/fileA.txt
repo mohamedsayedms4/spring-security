@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog
+Spring Boot is a powerful framework for building Java applications
+Git is used for version control and collaboration
